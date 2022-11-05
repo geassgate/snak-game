@@ -2,4 +2,4 @@
 snake game based on python
 
 
-##project notes
+## project notes
